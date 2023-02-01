@@ -106,8 +106,15 @@ GEM
     minitest (5.17.0)
     msgpack (1.6.0)
     mysql2 (0.5.5)
+<<<<<<< HEAD
     net-http (0.3.2)
       uri
+=======
+
+    net-http (0.3.2)
+      uri
+
+>>>>>>> 1a8e6e623e459a4715310ba101ea359b8172db34
     net-imap (0.3.4)
       date
       net-protocol
@@ -203,7 +210,13 @@ GEM
     turbolinks-source (5.2.0)
     tzinfo (1.2.11)
       thread_safe (~> 0.1)
+<<<<<<< HEAD
     uri (0.12.0)
+=======
+
+    uri (0.12.0)
+
+>>>>>>> 1a8e6e623e459a4715310ba101ea359b8172db34
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -234,7 +247,13 @@ DEPENDENCIES
   jbuilder (~> 2.7)
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.4.4)
+<<<<<<< HEAD
   net-http
+=======
+
+  net-http
+
+>>>>>>> 1a8e6e623e459a4715310ba101ea359b8172db34
   pry-rails
   puma (~> 4.1)
   rails (~> 6.0.2, >= 6.0.2.2)
